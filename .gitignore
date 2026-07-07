@@ -77,6 +77,8 @@ Desktop.ini
 *.tmp
 *.temp
 
-/public
-
-public/
+############################
+# Temporary - Ignore images only
+############################
+public/images/
+public/timeline/
